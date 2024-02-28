@@ -1,7 +1,12 @@
 hiii iAM ANAS
 
 
+<<<<<<< HEAD
 hey converse
 
 i am not sure i need time to think.
+=======
+hey converse 
+can i afford you?
+>>>>>>> feature
    
